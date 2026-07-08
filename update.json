@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://github.com/KINGODIN1124/auris-updates/releases/download/v1.0.0/Auris.Setup.1.0.0.exe",
-  "changelog": "Initial release of Auris!"
+  "changelog": "- Tested in-app auto-update successfully!\n- Added custom server check endpoints."
 }
