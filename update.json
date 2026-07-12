@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/KINGODIN1124/auris-updates/releases/download/v1.0.1/Auris.Setup.1.0.1.exe",
-  "changelog": "🎵 Import Playlists from Spotify & YouTube\n• Paste any public Spotify or YouTube playlist URL to import all tracks instantly\n• Real album artwork resolved for every track via Spotify oEmbed API\n• YouTube playlists parsed via modern InnerTube MWEB API\n\n🎨 UI Improvements\n• Sleek glassmorphic Import Playlist modal\n• Dynamic thumbnail caching - art loads in real-time as tracks play\n• Base64 placeholder icons for tracks without artwork\n\n🔧 Bug Fixes\n• Fixed tab navigation crash after importing playlists\n• Fixed broken HTML rendering in track rows"
+  "version": "1.0.2",
+  "url": "https://github.com/KINGODIN1124/auris-updates/releases/download/v1.0.2/Auris.Setup.1.0.2.exe",
+  "changelog": "🎵 Import Playlists from Spotify & YouTube\n• Paste public Spotify or YouTube URLs to import tracks instantly\n• Resolves real high-quality album artwork concurrently via Spotify oEmbed API\n\n🎨 UI & Premium Upgrades\n• Frameless window design with a sleek custom titlebar layout\n• Gorgeous, responsive live animated wallpaper background themes (Aurora Drift, Starry Space, Retro Grid)\n• Glassmorphic translucent panel overlays for all sidebars and players\n\n🔧 Stability & Bug Fixes\n• Fixed tab navigation crash and dynamic playlist row caching\n• Fixed double-escaped newlines in auto-update changelog descriptions\n• Installer now runs completely silently and auto-launches the new app when finished!"
 }
