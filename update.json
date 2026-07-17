@@ -1,5 +1,5 @@
 {
-  "version": "1.0.904",
+  "version": "1.0.905",
   "url": "https://github.com/KINGODIN1124/auris-updates/raw/main/Auris-Setup.exe",
-  "changelog": "- Implemented drag-and-drop song reordering inside playlists.\n- Fixed in-app auto-update checks and installer spawning.\n- Sleek circular transparent logo styling improvements."
+  "changelog": "- Implemented dynamic user preference recommendations card on home view.\n- Prevented text selection & copying natively.\n- Locked custom mobile themes to dark mode preventing lag.\n- Stabilized background play with native WebView focus/visibility hacks, WakeLock, and AudioFocus scheduling priorities.\n- Enabled lockscreen duration seekbar and timeline timestamps sync."
 }
