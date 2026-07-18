@@ -1,5 +1,5 @@
 {
-  "version": "1.0.905",
+  "version": "1.0.906",
   "url": "https://github.com/KINGODIN1124/auris-updates/raw/main/Auris-Setup.exe",
-  "changelog": "- Implemented dynamic user preference recommendations card on home view.\n- Prevented text selection & copying natively.\n- Locked custom mobile themes to dark mode preventing lag.\n- Stabilized background play with native WebView focus/visibility hacks, WakeLock, and AudioFocus scheduling priorities.\n- Enabled lockscreen duration seekbar and timeline timestamps sync."
+  "changelog": "- Changed playlist share links to auris:// protocol format with instant client-side decoding.\n- Added native Apple Music playlist link importing support.\n- Implemented dynamic user preference recommendations card on home view.\n- Stabilized background playback and system notification controls."
 }
