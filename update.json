@@ -1,5 +1,5 @@
 {
-  "version": "1.0.906",
+  "version": "1.0.907",
   "url": "https://github.com/KINGODIN1124/auris-updates/raw/main/Auris-Setup.exe",
-  "changelog": "- Changed playlist share links to auris:// protocol format with instant client-side decoding.\n- Added native Apple Music playlist link importing support.\n- Implemented dynamic user preference recommendations card on home view.\n- Stabilized background playback and system notification controls."
+  "changelog": "- Implemented deflate compression for ultra-short Auris playlist share links.\n- Full backward-compatibility for legacy uncompressed Auris links.\n- Added native Apple Music playlist link importing."
 }
