@@ -1,5 +1,5 @@
 {
-  "version": "1.0.910",
+  "version": "1.0.911",
   "url": "https://github.com/KINGODIN1124/auris-updates/raw/main/Auris-Setup.exe",
-  "changelog": "- Fixed server.js syntax error causing black screen on PC Electron startup.\n- Added 28-character short playlist URLs backed by server sharing API.\n- Replaced browser alert dialogs with glassmorphic toast notifications."
+  "changelog": "- Implemented hybrid cloud-ID and compressed payload playlist sharing engine for 100% reliable short links across devices."
 }
