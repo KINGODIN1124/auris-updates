@@ -1,5 +1,5 @@
 {
-  "version": "1.0.908",
+  "version": "1.0.909",
   "url": "https://github.com/KINGODIN1124/auris-updates/raw/main/Auris-Setup.exe",
-  "changelog": "- Implemented 28-character short playlist URLs backed by server sharing API.\n- Replaced browser alert dialogs with glassmorphic toast notifications.\n- Added Apple Music playlist import support."
+  "changelog": "- Fixed Android WebView asset interceptor to sanitize query strings and prevent black blank screen on startup.\n- Added 28-character short playlist URLs.\n- Replaced browser alerts with glassmorphic toast notifications."
 }
