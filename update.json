@@ -1,5 +1,5 @@
 {
-  "version": "1.0.907",
+  "version": "1.0.908",
   "url": "https://github.com/KINGODIN1124/auris-updates/raw/main/Auris-Setup.exe",
-  "changelog": "- Implemented deflate compression for ultra-short Auris playlist share links.\n- Full backward-compatibility for legacy uncompressed Auris links.\n- Added native Apple Music playlist link importing."
+  "changelog": "- Implemented 28-character short playlist URLs backed by server sharing API.\n- Replaced browser alert dialogs with glassmorphic toast notifications.\n- Added Apple Music playlist import support."
 }
