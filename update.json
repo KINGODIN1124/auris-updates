@@ -1,5 +1,5 @@
 {
-  "version": "1.0.911",
+  "version": "1.0.912",
   "url": "https://github.com/KINGODIN1124/auris-updates/raw/main/Auris-Setup.exe",
-  "changelog": "- Implemented hybrid cloud-ID and compressed payload playlist sharing engine for 100% reliable short links across devices."
+  "changelog": "- Added automatic background thumbnail artwork resolver to fix missing song images in imported playlists.\n- Fixed image URL packing and unpacking for compressed Auris share links."
 }
