@@ -1,5 +1,5 @@
 {
-  "version": "1.0.912",
+  "version": "1.0.0",
   "url": "https://github.com/KINGODIN1124/auris-updates/raw/main/Auris-Setup.exe",
-  "changelog": "- Added automatic background thumbnail artwork resolver to fix missing song images in imported playlists.\n- Fixed image URL packing and unpacking for compressed Auris share links."
+  "changelog": "Official public release v1.0.0 of Auris Client."
 }
