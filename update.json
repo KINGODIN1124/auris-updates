@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://github.com/KINGODIN1124/auris-updates/raw/main/Auris-Setup.exe",
-  "changelog": "Official public release v1.0.0 of Auris Client."
+  "changelog": "- Migrated backend service from Render to custom VPS to fix database connection issues.\n- Enabled usesCleartextTraffic on Android build to support direct VPS server communication."
 }
