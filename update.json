@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "url": "https://github.com/KINGODIN1124/auris-updates/raw/main/Auris-Setup.exe",
-  "changelog": "- Migrated backend service from Render to custom VPS to fix database connection issues.\n- Enabled usesCleartextTraffic on Android build to support direct VPS server communication."
+  "changelog": "- Fixed PC client startup bug (black screen issue).\n- Migrated backend service from Render to custom VPS."
 }
