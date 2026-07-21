@@ -1,5 +1,6 @@
 {
   "version": "1.0.2",
   "url": "https://github.com/KINGODIN1124/auris-updates/raw/main/Auris-Setup.exe",
-  "changelog": "- Fixed PC client startup bug (black screen issue).\n- Migrated backend service from Render to custom VPS."
+  "apkUrl": "https://github.com/KINGODIN1124/auris-updates/raw/main/auris.apk",
+  "changelog": "- Reverted to stable Version 1.0.2 release."
 }
