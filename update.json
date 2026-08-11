@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/KINGODIN1124/auris-updates/releases/download/v1.0.8/Auris-Setup.exe",
-  "apkUrl": "https://github.com/KINGODIN1124/auris-updates/releases/download/v1.0.8/auris.apk",
-  "changelog": "- Official Version 1.0.8 Release: Fixed in-app update download stall at 94%/95%/99%, resolved HTTP redirect follower stream completion, added universal mobile browser APK download trigger, and updated VPS backend service."
+  "version": "1.0.9",
+  "url": "https://github.com/KINGODIN1124/auris-updates/releases/download/v1.0.9/Auris-Setup.exe",
+  "apkUrl": "https://github.com/KINGODIN1124/auris-updates/releases/download/v1.0.9/auris.apk",
+  "changelog": "- Official Version 1.0.9 Release: Transliterates non-Latin lyrics (Gurmukhi, Devanagari, Russian, etc.) into clean Hinglish/English, fixes lyric truncation across all LRC timestamp formats, and enhances container-relative lyrics auto-scroll."
 }
