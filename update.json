@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "url": "https://github.com/KINGODIN1124/auris-updates/releases/download/v1.0.9/Auris-Setup.exe",
-  "apkUrl": "https://github.com/KINGODIN1124/auris-updates/releases/download/v1.0.9/auris.apk",
-  "changelog": "- Official Version 1.0.9 Release: Transliterates non-Latin lyrics (Gurmukhi, Devanagari, Russian, etc.) into clean Hinglish/English, fixes lyric truncation across all LRC timestamp formats, and enhances container-relative lyrics auto-scroll."
+  "version": "1.0.10",
+  "url": "https://github.com/KINGODIN1124/auris-updates/releases/download/v1.0.10/Auris-Setup.exe",
+  "apkUrl": "https://github.com/KINGODIN1124/auris-updates/releases/download/v1.0.10/auris.apk",
+  "changelog": "- Official Version 1.0.10 Release: Implemented completeness-candidate scoring to ensure lyrics cover 100% of song duration, added plain lyrics fallback blending for incomplete synced lyrics, and automated Hinglish transliteration."
 }
