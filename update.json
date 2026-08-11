@@ -1,0 +1,6 @@
+{
+  "version": "1.0.8",
+  "url": "https://github.com/KINGODIN1124/auris-updates/raw/main/Auris-Setup.exe",
+  "apkUrl": "https://github.com/KINGODIN1124/auris-updates/raw/main/auris.apk",
+  "changelog": "- Official Version 1.0.8 Release: Fixed in-app update download stall at 94%/95%/99%, resolved HTTP redirect follower stream completion, added universal mobile browser APK download trigger, and updated VPS backend service."
+}
