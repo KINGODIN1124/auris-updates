@@ -1,7 +1,7 @@
 {
-  "version": "1.0.12",
-  "url": "https://github.com/KINGODIN1124/auris-updates/releases/download/v1.0.12/Auris-Setup.exe",
-  "apkUrl": "https://github.com/KINGODIN1124/auris-updates/releases/download/v1.0.12/auris.apk",
-  "changelog": "- Version 1.0.12: Smart YouTube Audio duration matcher and dynamic lyrics offset sync to flawlessly support Music Videos and songs with long intros. Fixed play button UI state.",
+  "version": "1.0.11",
+  "url": "https://github.com/KINGODIN1124/auris-updates/releases/download/v1.0.11/Auris-Setup.exe",
+  "apkUrl": "https://github.com/KINGODIN1124/auris-updates/releases/download/v1.0.11/auris.apk",
+  "changelog": "- Version 1.0.11: Smart YouTube Audio duration matcher and dynamic lyrics offset sync to flawlessly support Music Videos and songs with long intros. Fixed play button UI state.",
   "notes": "Fixed lyrics advancing ahead for music videos with intros."
 }
