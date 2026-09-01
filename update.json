@@ -2,6 +2,6 @@
   "version": "1.0.11",
   "url": "https://github.com/KINGODIN1124/auris-updates/releases/download/v1.0.11/Auris-Setup.exe",
   "apkUrl": "https://github.com/KINGODIN1124/auris-updates/releases/download/v1.0.11/auris.apk",
-  "changelog": "- Official Version 1.0.11 Release: Scroll performance optimization, fixed cross-origin audio output switching, and theme synchronisation UI bug fixes.",
-  "notes": "Fixed audio output routing for real this time."
+  "changelog": "- Version 1.0.11: Fixed synchronized lyrics auto-advancing ahead of audio before playback starts, reset timeline and subtitle scroller to top on song switch, and fixed lyric line seek click handler.",
+  "notes": "Fixed lyrics advancing ahead before song starts."
 }
